@@ -14,8 +14,16 @@
 
 **Flow**
 - This chatbot is working with any URLs.
+  
+**Tech stacks and Libraries**
+- Python
+- Langchain
+- Huggingface embedding
+- Groq LLM
+- FAISS
+- Streamlit
 
 **work demo**
-
    <img width="1920" height="931" alt="image" src="https://github.com/user-attachments/assets/78b76e01-d07a-4cf1-a0b5-64bd97a18506" />
+
 
